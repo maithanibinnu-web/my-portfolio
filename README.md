@@ -11,3 +11,7 @@ A modern, responsive portfolio website built with React and TypeScript. Showcase
 - 🔄 **Component-Based** - Modular architecture for easy maintenance and updates
 - 📊 **Multiple Sections** - Hero, Projects, Skills, Timeline, Contact, and Footer sections
 - 🎯 **Smooth Animations** - FadeIn effects and transitions for a polished experience
+
+## Live Demo
+
+🌐 **View the live portfolio**: https://maithanibinnu-web.github.io/my-portfolio/
