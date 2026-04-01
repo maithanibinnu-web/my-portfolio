@@ -1,4 +1,5 @@
 import React from "react";
+import mock03 from '../assets/images/mock03.png';
 import mock04 from '../assets/images/mock04.png';
 import mock05 from '../assets/images/mock05.png';
 import mock06 from '../assets/images/mock06.png';
@@ -47,6 +48,11 @@ function Project() {
                 <a href="https://pass-generator-flax.vercel.app/" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://pass-generator-flax.vercel.app/" target="_blank" rel="noreferrer"><h2>Password Generator</h2></a>
                 <p>Developed a password generator application that allows users to create secure passwords with customizable options. This project was built using JavaScript, HTML, and CSS.</p>
+            </div>
+            <div className="project">
+                <a href="https://himalayan-web-tech-front-end-code-client.vercel.app/" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://himalayan-web-tech-front-end-code-client.vercel.app/" target="_blank" rel="noreferrer"><h2>Himalayan Web Tech</h2></a>
+                <p>Developed a web application for Himalayan Web Tech, showcasing local products. This project was built using React and Node.js.</p>
             </div>
         </div>
     </div>
